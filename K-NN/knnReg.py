@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("G:/Statistics (Python)/Cases/Real Estate/Housing.csv")
+df = pd.read_csv("/Users/ao/Desktop/09 - Practical Machine Learning /Cases/Real Estate/Housing.csv")
 dum_df = pd.get_dummies(df, drop_first=True)
 
 from sklearn.model_selection import train_test_split 
