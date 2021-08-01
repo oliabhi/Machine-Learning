@@ -1,0 +1,53 @@
+Cases/Sonar/Sonar.csv
+
+Bagging Classifier:
+Base Estimators: Decision tree, Logistic, GaussianNB
+
+best AUC?
+##################################################
+
+Cases/Concrete Strength/Concrete_Data.csv
+Bagging Regressor
+Base Estimators: Decision Tree, Linear Regression
+Ridge, Lasso
+
+################################################
+
+Bike share
+Bagging Regressor
+Base Estimator: Decision Tree, Linear Regression
+separately for registered separately for casual and then
+count = reg + casual
+###################################################
+Cases/Sonar/Sonar.csv
+
+Random Forest:
+
+best AUC?
+##################################################
+
+Cases/Concrete Strength/Concrete_Data.csv
+Random Forest
+best r2?
+
+#####################################################
+
+Bike share
+Random Forest
+
+separately for registered separately for casual and then
+count = reg + casual
+
+
+#################### h2o ############################
+Cases/Wisconsin/BreastCancer.csv
+Run Logistic Reg using h2o
+Gaussian NB
+Random Forest using h2o
+
+#####################
+Santander Customer Satisfaction
+Random Forest using h2o
+
+
+Same on Otto Classification

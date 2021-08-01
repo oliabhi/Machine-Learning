@@ -1,0 +1,24 @@
+Otto product challenge
+
+Logistic Regression
+LDA
+QDA
+Decision Tree Classifier
+
+#############################
+
+Cases/Concrete Strength/Concrete_Data.csv
+VotingRegressor ( linear regression, ridge regression,
+decision tree )
+
+
+r1  r2  r3
+
+wt1 = r1/(r1+r2+r3)    wt2 = r2/(r1+r2+r3) 
+wt3 = r3/(r1+r2+r3)
+
+#############################################
+
+Santander Customer Satisfaction
+Voting Classifier (soft)  
+Logistic Regression, LDA, QDA 
