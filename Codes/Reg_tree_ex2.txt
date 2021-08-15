@@ -1,6 +1,0 @@
-Bike share demand
-
-count?:
-count  = est registered + est casual
-
-Build tree model on train.csv and predict on test.csv
